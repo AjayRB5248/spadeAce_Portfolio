@@ -165,8 +165,9 @@ a{
 .btn-item{
   color: var(--white-color);
   border-radius: 30px;
-  border: 1px solid var(--white-color);
+  /* border: 1px solid var(--white-color); */
   transition: var(--transition);
+  margin-top:5px;
 }
 .btn-groups .btn-item:first-child{
   margin-right: 2.6rem;

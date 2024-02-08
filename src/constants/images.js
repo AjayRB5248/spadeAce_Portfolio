@@ -38,12 +38,17 @@ import cocktail from "../assets/images/cocktail.png";
 import dinner from "../assets/images/dinner.png";
 import customerService from "../assets/images/customer-service.png";
 import poker from "../assets/images/poker-chip.png";
+import SpadeAceLogo1 from "../assets/images/SpadeAce1.png";
+import SpadeAceLogo2 from "../assets/images/SpadeAce2.png";
+import gamblinggalaxy from "../assets/images/gamblinggalaxy.jpeg";
 
 import subscribe_background from "../assets/images/subscribe_background.jpeg";
 
 const images = {
   header_background,
   dinner,
+  SpadeAceLogo1,
+  SpadeAceLogo2,
   poker,
   customerService,
   cocktail,
@@ -56,6 +61,7 @@ const images = {
   eventSolution,
   culturalEvent,
   pattern_00,
+  gamblinggalaxy,
   pattern_1,
   services_img_1,
   services_img_2,
