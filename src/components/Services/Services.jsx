@@ -8,7 +8,7 @@ const Services = () => {
         <div className='container'>
             <div className='services-content'>
                 <div className='section-title'>
-                    <h3 className='text-brown'>SpaceAce <span className='text-dark'>services</span></h3>
+                    <h3 className='text-brown'>SpadeAce <span className='text-dark'>services</span></h3>
                     <p className='text'>Experience the Unforgettable Blend of Entertainment and Hospitality with SpadeAce.</p>
                 </div>
 
