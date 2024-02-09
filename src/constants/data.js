@@ -34,14 +34,14 @@ const services = [
 ];
 
 const works = [
-    {
-        image: `${images.nepathya}`,
-        title:'Organizing Music Tours'
-    },
-    {
-        image: `${images.culturalEvent}`,
-        title:'Cultural Events'
-    },
+    // {
+    //     image: `${images.nepathya}`,
+    //     title:'Organizing Music Tours'
+    // },
+    // {
+    //     image: `${images.culturalEvent}`,
+    //     title:'Cultural Events'
+    // },
     {
         image: `${images.professionalPlanning}`,
         title:'Professional Planning and Execution'
@@ -50,10 +50,10 @@ const works = [
         image: `${images.innovativeConcept}`,
         title:'Innovative Event Concepts'
     },
-    {
-        image: `${images.eventSolution}`,
-        title:'Comprehensive Event Solutions'
-    },
+    // {
+    //     image: `${images.eventSolution}`,
+    //     title:'Comprehensive Event Solutions'
+    // },
     {
         image: `${images.customizedEvent}`,
         title:'Customized Event Experiences'
